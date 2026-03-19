@@ -7,7 +7,7 @@ Esta aplicação foi desenvolvida utilizando Vite, React, Tailwind CSS e React R
 Página desenvolvida em React onde utilizo os conceitos de componentização, props, renderização de elementos com map() e **roteamento no lado do cliente (SPA)**. 
 
 O projeto foi refatorado para incluir navegação fluida sem recarregamento da página. A arquitetura está dividida da seguinte forma:
-- **`App.jsx`**: Atua como provedor central de rotas (`BrowserRouter`).
+- **`App.jsx`**: Atua como provedor central de rotas (`HashRouter`).
 - **`components/Menu.jsx`**: Barra de navegação global.
 - **`pages/`**: Contém as visualizações renderizadas por cada rota (`Home.jsx` e `TabuadaPage.jsx`).
 
