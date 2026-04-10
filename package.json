@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://j040lop3s.github.io/projeto-curriculo-react/",
+  "homepage": "https://JO40L0P3S.github.io/projeto-curriculo-react/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
